@@ -1,6 +1,6 @@
-#BootStrap3学习
+#01hello
 01简介：
-    Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架（以jquery为基础），用于开发响应式布局、移动设备优先的 WEB 项目。
+    Bootstrap 是最受欢迎的 HTML、CSS、JS 框架（以jquery为基础），用于开发响应式布局、移动设备优先的 WEB 项目。
     Bootstrap包含丰富的组件。学习Bootstrap就是学习其样式、组件的使用。
 01起步：
     1.官网下载bootStrap3，然后引入到项目。有3个文件夹 css js fonts
